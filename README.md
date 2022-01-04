@@ -6,6 +6,8 @@
   https://notetaker-jdp.herokuapp.com/
 
   There isn't a whole lot to add to this description as it is a very basic application using a RESTful API to handle creation/viewing of various notes. Though I would like to add a Delete function as was described in the "bonus" section of the assignment related to this.
+
+  Patch Note v0.2: Added Delete path to routes allowing deletion of any note created after "test" (as test does not contain an id)
   
 ## Table of Contents
       - [Installation](#installation)
