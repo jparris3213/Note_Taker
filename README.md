@@ -3,7 +3,7 @@
 ## Description
   This app is designed to be a simple note taking application and is currently deployed at:
 
-  https://notetaker-jdp.herokuapp.com/
+  https://note-taker-g7vw.onrender.com/
 
   There isn't a whole lot to add to this description as it is a very basic application using a RESTful API to handle creation/viewing of various notes. Though I would like to add a Delete function as was described in the "bonus" section of the assignment related to this.
 
