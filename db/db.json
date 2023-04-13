@@ -1,6 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "This is a Note",
+        "text": "This is a test note of the Note Taking Node Application",
+        "id": "201933b1-5338-4053-b088-3bdf4f1b000a"
+    },
+    {
+        "title": "This is another note",
+        "text": "Another note another day",
+        "id": "057becdc-9446-4d05-a930-8d79f7b3bf77"
     }
 ]

@@ -5,6 +5,7 @@ body {
   padding: 0;
 }
 
+
 .save-note {
   display: none;
 }
@@ -76,3 +77,4 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
